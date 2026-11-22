@@ -11,5 +11,13 @@
   "homepage": "https://mailsprout.io/claude",
   "repository": "https://github.com/jgiannotti/mailsprout-plugin",
   "license": "MIT",
-  "keywords": ["email", "email hosting", "custom domain", "business email", "accounts", "forwarding"]
+  "keywords": [
+    "email",
+    "email hosting",
+    "custom domain",
+    "business email",
+    "accounts",
+    "forwarding"
+  ],
+  "privacyPolicyUrl": "https://mailsprout.io/privacy"
 }
