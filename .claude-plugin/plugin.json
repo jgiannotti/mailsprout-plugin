@@ -19,5 +19,8 @@
     "accounts",
     "forwarding"
   ],
-  "privacyPolicyUrl": "https://mailsprout.io/privacy"
+  "privacyPolicyUrl": "https://mailsprout.io/privacy",
+  "supportUrl": "https://mailsprout.io/help",
+  "termsOfServiceUrl": "https://mailsprout.io/terms",
+  "documentationUrl": "https://mailsprout.io/claude"
 }
